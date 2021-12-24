@@ -1,0 +1,1 @@
+/home/kilic/Documents/rust-stuff/rust_yt_tut/further/rust_enum/target/debug/rust_enum: /home/kilic/Documents/rust-stuff/rust_yt_tut/further/rust_enum/src/main.rs /home/kilic/Documents/rust-stuff/rust_yt_tut/further/rust_enum/src/utils.rs
