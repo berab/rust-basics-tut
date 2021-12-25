@@ -1,0 +1,1 @@
+/home/kilic/Documents/rust-stuff/rust_yt_tut/further/structs_traits_impls/target/debug/structs_traits_impls: /home/kilic/Documents/rust-stuff/rust_yt_tut/further/structs_traits_impls/src/main.rs /home/kilic/Documents/rust-stuff/rust_yt_tut/further/structs_traits_impls/src/random_info.rs
